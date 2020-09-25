@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Mariusz" },
+    { "id": 2, "name": "Kamil" },
+    { "id": 3, "name": "Ptak" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Tyœ widzio³", "postId": 1 },
+    { "id": 2, "body": "Nie widzio³em", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
