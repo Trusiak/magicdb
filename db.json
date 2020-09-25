@@ -246,7 +246,7 @@
         "ip_address": "223.240.16.211"
     }, {
         "id": 36,
-        "first_name": "Sibbie",
+        "first_name": "Marcin",
         "last_name": "Mackiewicz",
         "email": "smackiewiczz@gnu.org",
         "gender": "Female",
@@ -274,52 +274,10 @@
         "ip_address": "11.36.24.77"
     }, {
         "id": 40,
-        "first_name": "Dorita",
+        "first_name": "Marcin",
         "last_name": "Hardington",
         "email": "dhardington13@narod.ru",
         "gender": "Female",
         "ip_address": "187.140.19.232"
-    }, {
-        "id": 41,
-        "first_name": "Gun",
-        "last_name": "Cohane",
-        "email": "gcohane14@home.pl",
-        "gender": "Male",
-        "ip_address": "178.150.216.99"
-    }, {
-        "id": 42,
-        "first_name": "Marcin",
-        "last_name": "Huelin",
-        "email": "bhuelin15@go.com",
-        "gender": "Male",
-        "ip_address": "4.106.239.20"
-    }, {
-        "id": 43,
-        "first_name": "Welch",
-        "last_name": "Hixson",
-        "email": "whixson16@cafepress.com",
-        "gender": "Male",
-        "ip_address": "117.53.230.189"
-    }, {
-        "id": 44,
-        "first_name": "Doralynne",
-        "last_name": "Neads",
-        "email": "dneads17@sakura.ne.jp",
-        "gender": "Female",
-        "ip_address": "62.226.200.154"
-    }, {
-        "id": 45,
-        "first_name": "Laurens",
-        "last_name": "Creggan",
-        "email": "lcreggan18@ask.com",
-        "gender": "Male",
-        "ip_address": "168.13.43.238"
-    }, {
-        "id": 46,
-        "first_name": "Marcin",
-        "last_name": "Pirrone",
-        "email": "bpirrone19@surveymonkey.com",
-        "gender": "Female",
-        "ip_address": "46.26.162.182"
     }]
 }
