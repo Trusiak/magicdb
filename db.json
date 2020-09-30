@@ -1,213 +1,244 @@
 {
     "users": [ {
         "id": 1,
-        "first_name": "Allie",
-        "last_name": "Lainton",
-        "email": "alainton0@dion.ne.jp",
-        "gender": "Male",
-        "ip_address": "11.205.31.27"
-    }, {
+        "name": "Katarzyna von Peszkorzyna",
+		"character_class": "archer",
+        "element": "fire",
+        "gender": "female",
+		"birthYear": "1996"
+    },
+	{
         "id": 2,
-        "first_name": "Johnny",
-        "last_name": "Roseman",
-        "email": "jroseman1@europa.eu",
-        "gender": "Male",
-        "ip_address": "194.37.57.142"
-    }, {
+        "name": "Mateusz IV Niszczyciel",
+		"character_class": "wizard",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1941"
+    },
+	{
         "id": 3,
-        "first_name": "Aristotle",
-        "last_name": "Geldart",
-        "email": "ageldart2@mozilla.org",
-        "gender": "Male",
-        "ip_address": "57.167.51.27"
-    }, {
+        "name": "Maryjusz Siódmy",
+		"character_class": "warrior",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1981"
+    },
+		{
         "id": 4,
-        "first_name": "Darrel",
-        "last_name": "Parkes",
-        "email": "dparkes3@state.gov",
-        "gender": "Male",
-        "ip_address": "235.100.133.12"
-    }, {
+        "name": "Karwasz Twarzog³owy",
+		"character_class": "shaman",
+        "element": "air",
+        "gender": "male",
+        "birthYear": "1977"
+    },
+		{
         "id": 5,
-        "first_name": "Kelsy",
-        "last_name": "Seyers",
-        "email": "kseyers4@nytimes.com",
-        "gender": "Female",
-        "ip_address": "143.195.41.9"
-    }, {
+        "name": "Siemojka Radejka",
+		"character_class": "assassin",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1989"
+    },
+		{
         "id": 6,
-        "first_name": "Kennedy",
-        "last_name": "Borne",
-        "email": "kborne5@multiply.com",
-        "gender": "Male",
-        "ip_address": "160.229.25.149"
-    }, {
+        "name": "Konfucjusz Lincoln",
+		"character_class": "mage",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1991"
+    },
+		{
         "id": 7,
-        "first_name": "Christiane",
-        "last_name": "Alesbrook",
-        "email": "calesbrook6@360.cn",
-        "gender": "Female",
-        "ip_address": "162.16.204.35"
-    }, {
+        "name": "Magiczny Krzysztof",
+		"character_class": "mage",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1995"
+    },
+		{
         "id": 8,
-        "first_name": "Byrle",
-        "last_name": "Pavett",
-        "email": "bpavett7@europa.eu",
-        "gender": "Male",
-        "ip_address": "70.158.122.207"
-    }, {
+        "name": "Renata Œwiat³okij",
+		"character_class": "mage",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1955"
+    },
+		{
         "id": 9,
-        "first_name": "Marina",
-        "last_name": "McAllen",
-        "email": "mmcallen8@abc.net.au",
-        "gender": "Female",
-        "ip_address": "34.117.244.134"
-    }, {
+        "name": "Marzena von Bazyla",
+		"character_class": "shaman",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1988"
+    },
+		{
         "id": 10,
-        "first_name": "Jourdan",
-        "last_name": "Dimitrie",
-        "email": "jdimitrie9@wufoo.com",
-        "gender": "Female",
-        "ip_address": "215.93.199.158"
-    }, {
+        "name": "Kisielova III Mocna",
+		"character_class": "warrior",
+        "element": "electricity",
+        "gender": "female",
+        "birthYear": "1962"
+    },
+		{
         "id": 11,
-        "first_name": "Hendrik",
-        "last_name": "Houltham",
-        "email": "hhoulthama@prnewswire.com",
-        "gender": "Male",
-        "ip_address": "104.137.252.109"
-    }, {
+        "name": "Jadwiga Szmareczko",
+		"character_class": "wizard",
+        "element": "ice",
+        "gender": "female",
+        "birthYear": "1971"
+    },
+		{
         "id": 12,
-        "first_name": "Lavinie",
-        "last_name": "Poate",
-        "email": "lpoateb@craigslist.org",
-        "gender": "Female",
-        "ip_address": "146.112.252.76"
-    }, {
+        "name": "¯anet de Monika",
+		"character_class": "archer",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1990"
+    },
+		{
         "id": 13,
-        "first_name": "Arliene",
-        "last_name": "Taylor",
-        "email": "ataylorc@behance.net",
-        "gender": "Female",
-        "ip_address": "25.143.74.142"
-    }, {
+        "name": "Roxana Carbon",
+		"character_class": "assassin",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1997"
+    },
+		{
         "id": 14,
-        "first_name": "Edee",
-        "last_name": "Adamczyk",
-        "email": "eadamczykd@ezinearticles.com",
-        "gender": "Female",
-        "ip_address": "60.220.204.89"
-    }, {
+        "name": "Wuwuzuwel Erakuda Ma³êcki",
+		"character_class": "archer",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1994"
+    },
+		{
         "id": 15,
-        "first_name": "Gardiner",
-        "last_name": "Coppeard",
-        "email": "gcoppearde@java.com",
-        "gender": "Male",
-        "ip_address": "71.155.56.228"
-    }, {
+        "name": "Sosnowiecki Herakles",
+		"character_class": "wizard",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1945"
+    },
+	{
         "id": 16,
-        "first_name": "Blanch",
-        "last_name": "Hanssmann",
-        "email": "bhanssmannf@sciencedirect.com",
-        "gender": "Female",
-        "ip_address": "13.134.189.5"
-    }, {
+        "name": "Adonis ze Szwajcarii",
+		"character_class": "warrior",
+        "element": "air",
+        "gender": "male",
+        "birthYear": "1988"
+    },
+		{
         "id": 17,
-        "first_name": "Shirlene",
-        "last_name": "Clampett",
-        "email": "sclampettg@icio.us",
-        "gender": "Female",
-        "ip_address": "187.158.80.247"
-    }, {
+        "name": "Gawronek z Siedmiu Wronek",
+		"character_class": "shaman",
+        "element": "fire",
+        "gender": "male",
+        "birthYear": "1977"
+    },
+		{
         "id": 18,
-        "first_name": "Annnora",
-        "last_name": "Gosselin",
-        "email": "agosselinh@taobao.com",
-        "gender": "Female",
-        "ip_address": "128.93.177.40"
-    }, {
+        "name": "Ozajasz Nowak",
+		"character_class": "assassin",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1987"
+    },
+		{
         "id": 19,
-        "first_name": "Coralie",
-        "last_name": "Duetsche",
-        "email": "cduetschei@sogou.com",
-        "gender": "Female",
-        "ip_address": "159.226.187.5"
-    }, {
+        "name": "Miros³aw Czarnoksiê¿ny",
+		"character_class": "assassin",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1976"
+    },
+		{
         "id": 20,
-        "first_name": "Elvira",
-        "last_name": "Paullin",
-        "email": "epaullinj@nba.com",
-        "gender": "Female",
-        "ip_address": "81.255.32.237"
-    }, {
+        "name": "Julia Pocieszka",
+		"character_class": "mage",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1995"
+    },
+		{
         "id": 21,
-        "first_name": "Madalena",
-        "last_name": "Huckerbe",
-        "email": "mhuckerbek@sitemeter.com",
-        "gender": "Female",
-        "ip_address": "169.211.153.211"
-    }, {
+        "name": "Hergodon z Salwadoru",
+		"character_class": "wizard",
+        "element": "fire",
+        "gender": "male",
+        "birthYear": "1949"
+    },
+		{
         "id": 22,
-        "first_name": "Radcliffe",
-        "last_name": "Lawrenceson",
-        "email": "rlawrencesonl@mapy.cz",
-        "gender": "Male",
-        "ip_address": "197.87.220.55"
-    }, {
+        "name": "Urszula von Dyszkova",
+		"character_class": "shaman",
+        "element": "electricity",
+        "gender": "female",
+        "birthYear": "1982"
+    },
+		{
         "id": 23,
-        "first_name": "Gherardo",
-        "last_name": "Cocozza",
-        "email": "gcocozzam@newyorker.com",
-        "gender": "Male",
-        "ip_address": "106.175.133.220"
-    }, {
+        "name": "Makacjusz Asmowity",
+		"character_class": "shaman",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1954"
+    },
+		{
         "id": 24,
-        "first_name": "Munroe",
-        "last_name": "Summerhayes",
-        "email": "msummerhayesn@lycos.com",
-        "gender": "Male",
-        "ip_address": "124.129.60.181"
-    }, {
+        "name": "Pelagia W¹skobroda",
+		"character_class": "warrior",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1967"
+    },
+		{
         "id": 25,
-        "first_name": "Rayner",
-        "last_name": "Zouch",
-        "email": "rzoucho@odnoklassniki.ru",
-        "gender": "Male",
-        "ip_address": "249.50.251.240"
-    }, {
+        "name": "Krystian Wu-Ang-Czang",
+		"character_class": "assassin",
+        "element": "fire",
+        "gender": "male",
+        "birthYear": "1968"
+    },
+		{
         "id": 26,
-        "first_name": "Thorny",
-        "last_name": "Hollingsbee",
-        "email": "thollingsbeep@yelp.com",
-        "gender": "Male",
-        "ip_address": "251.199.59.138"
-    }, {
+        "name": "Funfelek z Marmurka",
+		"character_class": "mage",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1966"
+    },
+		{
         "id": 27,
-        "first_name": "Auberta",
-        "last_name": "Kernley",
-        "email": "akernleyq@moonfruit.com",
-        "gender": "Female",
-        "ip_address": "219.77.137.23"
-    }, {
+        "name": "Paulyna aka Valicja",
+		"character_class": "archer",
+        "element": "ice",
+        "gender": "female",
+        "birthYear": "1984"
+    },
+		{
         "id": 28,
-        "first_name": "Salvidor",
-        "last_name": "Debold",
-        "email": "sdeboldr@example.com",
-        "gender": "Male",
-        "ip_address": "57.185.249.140"
-    }, {
+        "name": "Weronika von Wolfensztigen",
+		"character_class": "assassin",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1999"
+    },
+		{
         "id": 29,
-        "first_name": "Tera",
-        "last_name": "Redding",
-        "email": "treddings@homestead.com",
-        "gender": "Female",
-        "ip_address": "37.177.180.221"
-    }, {
+        "name": "Asmarycja",
+		"character_class": "mage",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1977"
+    },
+		{
         "id": 30,
-        "first_name": "Vidovik",
-        "last_name": "Bradwell",
-        "email": "vbradwellt@howstuffworks.com",
-        "gender": "Male",
-        "ip_address": "168.168.5.126"
-    }]
+        "name": "Szerlotka II",
+		"character_class": "shaman",
+        "element": "electricity",
+        "gender": "female",
+        "birthYear": "1979"
+    },
+	
+	]
 }
