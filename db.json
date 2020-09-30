@@ -14,5 +14,221 @@
         "element": "ice",
         "gender": "male",
         "birthYear": "1941"
+    },
+	{
+        "id": 3,
+        "name": "Maryjusz Perliczek",
+		"character_class": "warrior",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1981"
+    },
+		{
+        "id": 4,
+        "name": "Karwasz Melodyjka",
+		"character_class": "shaman",
+        "element": "air",
+        "gender": "male",
+        "birthYear": "1977"
+    },
+		{
+        "id": 5,
+        "name": "Siemojka Radejka",
+		"character_class": "assassin",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1989"
+    },
+		{
+        "id": 6,
+        "name": "Konfucjusz Lincoln",
+		"character_class": "mage",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1991"
+    },
+		{
+        "id": 7,
+        "name": "Magiczny Krzysztof",
+		"character_class": "mage",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1995"
+    },
+		{
+        "id": 8,
+        "name": "Renata Zatarg",
+		"character_class": "mage",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1955"
+    },
+		{
+        "id": 9,
+        "name": "Marzena von Bazyla",
+		"character_class": "shaman",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1988"
+    },
+		{
+        "id": 10,
+        "name": "Kisielova III Mocna",
+		"character_class": "warrior",
+        "element": "electricity",
+        "gender": "female",
+        "birthYear": "1962"
+    },
+		{
+        "id": 11,
+        "name": "Jadwiga Szmareczko",
+		"character_class": "wizard",
+        "element": "ice",
+        "gender": "female",
+        "birthYear": "1971"
+    },
+		{
+        "id": 12,
+        "name": "Martyna de Monika",
+		"character_class": "archer",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1990"
+    },
+		{
+        "id": 13,
+        "name": "Roxana Carbon",
+		"character_class": "assassin",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1997"
+    },
+		{
+        "id": 14,
+        "name": "Wuwuzuwel Erakuda Sznycel",
+		"character_class": "archer",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1994"
+    },
+		{
+        "id": 15,
+        "name": "Sosnowiecki Herakles",
+		"character_class": "wizard",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1945"
+    },
+	{
+        "id": 16,
+        "name": "Adonis ze Szwajcarii",
+		"character_class": "warrior",
+        "element": "air",
+        "gender": "male",
+        "birthYear": "1988"
+    },
+		{
+        "id": 17,
+        "name": "Gawronek z Siedmiu Wronek",
+		"character_class": "shaman",
+        "element": "fire",
+        "gender": "male",
+        "birthYear": "1977"
+    },
+		{
+        "id": 18,
+        "name": "Ozajasz Nowak",
+		"character_class": "assassin",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1987"
+    },
+		{
+        "id": 19,
+        "name": "Miros³aw Paleta",
+		"character_class": "assassin",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1976"
+    },
+		{
+        "id": 20,
+        "name": "Julia Pocieszka",
+		"character_class": "mage",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1995"
+    },
+		{
+        "id": 21,
+        "name": "Hergodon z Salwadoru",
+		"character_class": "wizard",
+        "element": "fire",
+        "gender": "male",
+        "birthYear": "1949"
+    },
+		{
+        "id": 22,
+        "name": "Urszula von Dyszkova",
+		"character_class": "shaman",
+        "element": "electricity",
+        "gender": "female",
+        "birthYear": "1982"
+    },
+		{
+        "id": 23,
+        "name": "Makacjusz Asmowity",
+		"character_class": "shaman",
+        "element": "ice",
+        "gender": "male",
+        "birthYear": "1954"
+    },
+		{
+        "id": 24,
+        "name": "Pelagia Brodzik",
+		"character_class": "warrior",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1967"
+    },
+		{
+        "id": 25,
+        "name": "Krystian Wu-Ang-Czang",
+		"character_class": "assassin",
+        "element": "fire",
+        "gender": "male",
+        "birthYear": "1968"
+    },
+		{
+        "id": 26,
+        "name": "Funfelek z Marmurka",
+		"character_class": "mage",
+        "element": "electricity",
+        "gender": "male",
+        "birthYear": "1966"
+    },
+		{
+        "id": 27,
+        "name": "Paulyna aka Valicja",
+		"character_class": "archer",
+        "element": "ice",
+        "gender": "female",
+        "birthYear": "1984"
+    },
+		{
+        "id": 28,
+        "name": "Weronika von Wolfensztigen",
+		"character_class": "assassin",
+        "element": "air",
+        "gender": "female",
+        "birthYear": "1999"
+    },
+		{
+        "id": 29,
+        "name": "Asmarycja",
+		"character_class": "mage",
+        "element": "fire",
+        "gender": "female",
+        "birthYear": "1977"
     }]
 }
