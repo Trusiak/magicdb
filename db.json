@@ -17,7 +17,7 @@
     },
 	{
         "id": 3,
-        "name": "Maryjusz Siódmy",
+        "name": "Maryjusz Perliczek",
 		"character_class": "warrior",
         "element": "electricity",
         "gender": "male",
@@ -25,7 +25,7 @@
     },
 		{
         "id": 4,
-        "name": "Karwasz Twarzog³owy",
+        "name": "Karwasz Melodyjka",
 		"character_class": "shaman",
         "element": "air",
         "gender": "male",
@@ -57,7 +57,7 @@
     },
 		{
         "id": 8,
-        "name": "Renata Œwiat³okij",
+        "name": "Renata Zatarg",
 		"character_class": "mage",
         "element": "air",
         "gender": "female",
@@ -89,7 +89,7 @@
     },
 		{
         "id": 12,
-        "name": "¯anet de Monika",
+        "name": "Martyna de Monika",
 		"character_class": "archer",
         "element": "air",
         "gender": "female",
@@ -105,7 +105,7 @@
     },
 		{
         "id": 14,
-        "name": "Wuwuzuwel Erakuda Ma³êcki",
+        "name": "Wuwuzuwel Erakuda Sznycel",
 		"character_class": "archer",
         "element": "electricity",
         "gender": "male",
@@ -145,7 +145,7 @@
     },
 		{
         "id": 19,
-        "name": "Miros³aw Czarnoksiê¿ny",
+        "name": "Miros³aw Paleta",
 		"character_class": "assassin",
         "element": "ice",
         "gender": "male",
@@ -185,7 +185,7 @@
     },
 		{
         "id": 24,
-        "name": "Pelagia W¹skobroda",
+        "name": "Pelagia Brodzik",
 		"character_class": "warrior",
         "element": "air",
         "gender": "female",
